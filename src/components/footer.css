@@ -31,7 +31,10 @@
     fill: white;
     transition: .3s;
 }
-
+.footer__copyright {
+    font-size: 1rem;
+    line-height: 1.25rem;
+}
 @media (max-width: 639px) {
     .footer {
         height: 8rem;
@@ -43,5 +46,9 @@
     }
     .footer__smm--item:last-child {
         margin-right: 0;
+    }
+    .footer__copyright {
+        font-size: .875rem;
+        line-height: 1.25rem;
     }
 }
