@@ -1,58 +1,61 @@
 .container__header {
-    display: block;
-    width: 90%;
-    max-width: 1800px;
-    position: fixed;
-    z-index: 100;
-    top: 0;  
+  display: block;
+  width: 90%;
+  max-width: 1800px;
+  position: fixed;
+  z-index: 100;
+  top: 0;
 }
 .header {
-    height: 6rem;
-    font-size: 1.25rem;
-    border-bottom: 1px solid black;
-    background-color: white;
-    display: flex;
-	flex-direction: row;
-	justify-content: space-between;
-	align-items: center;
-    transition: .3s;
+  height: 6rem;
+  font-size: 1.25rem;
+  border-bottom: 1px solid black;
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  transition: 0.3s;
+}
+.header--s {
+  height: 4rem;
 }
 .header__logo a {
-    color: black;
+  color: black;
 }
 .header__logo a:visited {
-    color: black;
+  color: black;
 }
 .header__logo a:hover {
-    color: red;
+  color: red;
 }
 .btn {
-    border: 0;
-    font-family: inherit;
-    font-size: 1rem;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    background-color: white;
-    border: 1px solid white;
-    text-transform: uppercase;
-    transition: .3s;
-    padding: .5rem .75rem .25rem;
+  border: 0;
+  font-family: inherit;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-color: white;
+  border: 1px solid white;
+  text-transform: uppercase;
+  transition: 0.3s;
+  padding: 0.5rem 0.75rem 0.25rem;
 }
 .btn:hover {
-    border: 1px solid red;
-    cursor: pointer;
+  border: 1px solid red;
+  cursor: pointer;
 }
 .btn--active {
-    background: red;
-    border: 1px solid red;  
-    color: white;
+  background: red;
+  border: 1px solid red;
+  color: white;
 }
 @media (max-width: 639px) {
-    .header {
-        font-size: 1rem;
-        height: 4rem;
-    }
-    .btn {
-        font-size: .75rem;
-    }
+  .header {
+    font-size: 1rem;
+    height: 4rem;
+  }
+  .btn {
+    font-size: 0.75rem;
+  }
 }

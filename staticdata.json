@@ -1,106 +1,106 @@
 {
-    "cards": [
-        {
-            "title": "Dasha the Guide in Moscow", 
-            "tag": "Landing Page",
-            "image": "/projects/dasha/thumb@2x.png",
-            "link": "/projects/dasha"
-        },
-        {
-            "title": "Exness and Real Madrid partnership", 
-            "tag": "Landing Page",
-            "image": "/projects/exness-x-real/thumb@2x.png",
-            "link": "/projects/exness-x-real"
-        },
-        {
-            "title": "Data Studio", 
-            "tag": "Landing Page",
-            "image": "/projects/data-studio/thumb@2x.png",
-            "link": "/projects/data-studio"
-        },
-        {
-            "title": "Things for Readymag", 
-            "tag": "Web Editorial",
-            "image": "/projects/readymag/thumb@2x.png",
-            "link": "/projects/readymag"
-        },
-        {
-            "title": "Feedback Booth", 
-            "tag": "UI/UX",
-            "image": "/projects/mega-feedback/thumb@2x.png",
-            "link": "/projects/mega-feedback"
-        },
-        {
-            "title": "Taxphone", 
-            "tag": "Landing Page",
-            "image": "/projects/taxphone/thumb@2x.png",
-            "link": "/projects/taxphone"
-        },
-        {
-            "title": "Brainysoft", 
-            "tag": "Web Design",
-            "image": "/projects/brainysoft/thumb@2x.png",
-            "link": "/projects/brainysoft"
-        },
-        {
-            "title": "Russia Study Tour", 
-            "tag": "Print",
-            "image": "/projects/rsth-2016/thumb@2x.png",
-            "link": "/projects/rsth-2016"
-        },
-        {
-            "title": "Finnovasia 2016", 
-            "tag": "Print",
-            "image": "/projects/finnovasia-2016/thumb@2x.png",
-            "link": "/projects/finnovasia-2016"
-        },
-        {
-            "title": "Website for Psychologist", 
-            "tag": "Landing Page",
-            "image": "/projects/express-otvet/thumb@2x.png",
-            "link": "/projects/express-otvet"
-        },
-        {
-            "title": "Yandex", 
-            "tag": "Various",
-            "image": "/projects/yandex/thumb@2x.png",
-            "link": "/projects/yandex"
-        },
-        {
-            "title": "Yandex Office Wayfinding", 
-            "tag": "Wayfinding",
-            "image": "/projects/yandex-navi/thumb@2x.png",
-            "link": "/projects/yandex-navi"
-        },
-        {
-            "title": "Carwash search", 
-            "tag": "Landing Page",
-            "image": "/projects/carwash/thumb@2x.png",
-            "link": "/projects/carwash"
-        },
-        {
-            "title": "\"Yandex.Maps in Real life\"", 
-            "tag": "Print",
-            "image": "/projects/yandex-maps-heritage/thumb@2x.png",
-            "link": "/projects/yandex-maps-heritage"
-        },
-        {
-            "title": "Schemes for School Encyclopedic Dictionary", 
-            "tag": "Editorial Design",
-            "image": "/projects/schemes-dict/thumb@2x.png",
-            "link": "/projects/schemes-dict"
-        },
-        {
-            "title": "Cover Page for \"Sekret Firmy\"", 
-            "tag": "Editorial Design",
-            "image": "/projects/sekret-11-2012/thumb@2x.png",
-            "link": "/projects/sekret-11-2012"
-        },
-        {
-            "title": "Citizen K", 
-            "tag": "Editorial Design",
-            "image": "/projects/citizenk/thumb@2x.png",
-            "link": "/projects/citizenk"
-        }
-    ]
+  "cards": [
+    {
+      "title": "Dasha the Guide in Moscow",
+      "tag": "Landing Page",
+      "image": "/projects/dasha/thumb@2x.png",
+      "link": "/projects/dasha"
+    },
+    {
+      "title": "Exness and Real Madrid partnership",
+      "tag": "Landing Page",
+      "image": "/projects/exness-x-real/thumb@2x.png",
+      "link": "/projects/exness-x-real"
+    },
+    {
+      "title": "Data Studio",
+      "tag": "Landing Page",
+      "image": "/projects/data-studio/thumb@2x.png",
+      "link": "/projects/data-studio"
+    },
+    {
+      "title": "Things for Readymag",
+      "tag": "Web Editorial",
+      "image": "/projects/readymag/thumb@2x.png",
+      "link": "/projects/readymag"
+    },
+    {
+      "title": "Feedback Booth",
+      "tag": "UI/UX",
+      "image": "/projects/mega-feedback/thumb@2x.png",
+      "link": "/projects/mega-feedback"
+    },
+    {
+      "title": "Taxphone",
+      "tag": "Landing Page",
+      "image": "/projects/taxphone/thumb@2x.png",
+      "link": "/projects/taxphone"
+    },
+    {
+      "title": "Brainysoft",
+      "tag": "Web Design",
+      "image": "/projects/brainysoft/thumb@2x.png",
+      "link": "/projects/brainysoft"
+    },
+    {
+      "title": "Russia Study Tour",
+      "tag": "Print",
+      "image": "/projects/rsth-2016/thumb@2x.png",
+      "link": "/projects/rsth-2016"
+    },
+    {
+      "title": "Finnovasia 2016",
+      "tag": "Print",
+      "image": "/projects/finnovasia-2016/thumb@2x.png",
+      "link": "/projects/finnovasia-2016"
+    },
+    {
+      "title": "Website for Psychologist",
+      "tag": "Landing Page",
+      "image": "/projects/express-otvet/thumb@2x.png",
+      "link": "/projects/express-otvet"
+    },
+    {
+      "title": "Yandex",
+      "tag": "Various",
+      "image": "/projects/yandex/thumb@2x.png",
+      "link": "/projects/yandex"
+    },
+    {
+      "title": "Yandex Office Wayfinding",
+      "tag": "Wayfinding",
+      "image": "/projects/yandex-navi/thumb@2x.png",
+      "link": "/projects/yandex-navi"
+    },
+    {
+      "title": "Carwash search",
+      "tag": "Landing Page",
+      "image": "/projects/carwash/thumb@2x.png",
+      "link": "/projects/carwash"
+    },
+    {
+      "title": "\"Yandex.Maps in Real life\"",
+      "tag": "Print",
+      "image": "/projects/yandex-maps-heritage/thumb@2x.png",
+      "link": "/projects/yandex-maps-heritage"
+    },
+    {
+      "title": "Schemes for School Encyclopedic Dictionary",
+      "tag": "Editorial Design",
+      "image": "/projects/schemes-dict/thumb@2x.png",
+      "link": "/projects/schemes-dict"
+    },
+    {
+      "title": "Cover Page for \"Sekret Firmy\"",
+      "tag": "Editorial Design",
+      "image": "/projects/sekret-11-2012/thumb@2x.png",
+      "link": "/projects/sekret-11-2012"
+    },
+    {
+      "title": "Citizen K",
+      "tag": "Editorial Design",
+      "image": "/projects/citizenk/thumb@2x.png",
+      "link": "/projects/citizenk"
+    }
+  ]
 }
