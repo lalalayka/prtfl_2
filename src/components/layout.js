@@ -18,22 +18,22 @@ export default ({ children }) => (
   </div>
 );
 
-export const query = graphql`
-{
-	contentfulProjectCard {
-        title
-        tag
-        thumbnail {
-          id
-        }
-        linkInside
-        linkOutside
-        description {
-          id
-        } 
-        date
-        pictures {
-          id
-        } 
-      }
-}
+// export const query = graphql`
+// {
+// 	contentfulProjectCard {
+//         title
+//         tag
+//         thumbnail {
+//           id
+//         }
+//         linkInside
+//         linkOutside
+//         description {
+//           id
+//         } 
+//         date
+//         pictures {
+//           id
+//         } 
+//       }
+// }
