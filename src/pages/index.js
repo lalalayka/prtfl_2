@@ -1,8 +1,9 @@
 import React from 'react';
 import Card from '../components/card';
 import staticdata from '../../staticdata.json'
-import './index.css'
-import Layout from '../components/layout'
+import './index.css';
+import Layout from '../layout';
+
 
 const IndexPage = () => (
   <div className="container__main">
